@@ -45,10 +45,10 @@ Visit a Shrtfly link. The script will run automatically.
 เปิดลิงก์ Shrtfly สคริปต์จะทำงานอัตโนมัติ
 
 ### Step 4: Complete Captcha / ทำ Captcha
-On the first run of the script, you must complete the captcha manually.  
-Click **Stop Script**, solve the captcha, then resume the script.  
+On the first run of the script, you must complete the captcha manually by  
+Click **Stop Script** and solve the captcha.
 เมื่อรันสคริปต์ครั้งแรก คุณต้องทำ captcha ด้วยตัวเอง  
-กด **Stop Script**, ทำ captcha ให้เรียบร้อย แล้วกดดำเนินการต่อ
+กด **Stop Script**, ทำ captcha ให้เรียบร้อย
 
 ### Step 5: Wait / รอ
 Wait until you are no longer on a Shrtfly page.  
