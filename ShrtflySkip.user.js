@@ -3,7 +3,7 @@
 // @namespace    https://github.com/LetMeInnnnn
 // @version      6.7
 // @description  ข้ามหน้า AdLink อัตโนมัติ + ซ่อนโฆษณา
-// @author       naLeei
+// @author       naLeei, ChatGPT
 // @homepageURL  https://github.com/LetMeInnnnn/Shrtfly-Skip
 //
 // @match        https://loan.*.net/*
