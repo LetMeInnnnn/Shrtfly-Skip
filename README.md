@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ## ⚠️ Important Notice / ข้อควรทราบสำคัญ
 
@@ -19,7 +18,6 @@
 > **หลังจากสคริปต์ทำงานครั้งแรกบนเว็บไซต์ใด ๆ คุณต้องทำ captcha ด้วยตัวเอง**  
 > **ต้องกดปุ่ม Stop Script เพื่อทำ captcha ให้เสร็จสมบูรณ์**
 
----
 
 ## 🔗 Installation / การติดตั้ง
 
@@ -28,7 +26,6 @@ Click the link below to install the script directly in **Tampermonkey** or anoth
 
 ### [📥 Install ShrtflySkip.user.js](https://raw.githubusercontent.com/LetMeInnnnn/Shrtfly-Skip/main/ShrtflySkip.user.js)
 
----
 
 ## 💡 How to Use / วิธีใช้งาน
 
@@ -54,7 +51,6 @@ Click **Stop Script** and solve the captcha.
 Wait until you are no longer on a Shrtfly page.  
 นั่งอ้วนรอมันเสร็จ
 
----
 
 ## 🤝 Community & Support / ชุมชนและการสนับสนุน
 
@@ -67,25 +63,13 @@ Wait until you are no longer on a Shrtfly page.
 - **Feel free to fork and modify** - You can use and modify the script as needed  
   **แยกและแก้ไขได้อย่างอิสระ** - คุณสามารถใช้งานและแก้ไขสคริปต์ตามต้องการ
 
----
 
 ## 📄 License & Credits / ใบอนุญาตและเครดิต
 
 ### Disclaimer / ข้อจำกัดความรับผิดชอบ
 
-Most of this script and README content was generated with the help of **ChatGPT**.  
-ส่วนใหญ่ของสคริปต์และเนื้อหา README นี้ถูกสร้างขึ้นด้วยความช่วยเหลือของ **ChatGPT**
+Most of this script and README content was generated with the help of **ChatGPT**, **Claude**.  
+ส่วนใหญ่ของสคริปต์และเนื้อหา README นี้ถูกสร้างขึ้นด้วยความช่วยเหลือของ **ChatGPT**, **Claude**
 
 You can use and modify the script, but the original creator (owner) does not provide active support.  
 คุณสามารถใช้งานและแก้ไขสคริปต์ได้ แต่เจ้าของต้นฉบับไม่ได้ให้การสนับสนุนอย่างต่อเนื่อง
-
----
-
-<div align="center">
-
-**Made with ❤️ by the community**  
-**สร้างด้วย ❤️ โดยชุมชน**
-
-[⭐ Star on GitHub](https://github.com/LetMeInnnnn/Shrtfly-Skip) | [🐛 Report Issues](https://github.com/LetMeInnnnn/Shrtfly-Skip/issues)
-
-</div>
