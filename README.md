@@ -26,3 +26,8 @@ Click the link below to install the script directly in **Tampermonkey** or anoth
 3. Visit a Shrtfly link. The script will run automatically.  
 4. If captcha appears, click **Stop Script**, complete the captcha, then continue.
 
+---
+
+## ⚠️ Disclaimer / Credits
+Most of this script and README content was generated with the help of **ChatGPT**.  
+You can use and modify the script, but the original creator (owner) does not provide active support.
